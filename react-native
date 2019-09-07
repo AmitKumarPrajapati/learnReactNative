@@ -1,0 +1,5 @@
+Commands for running react native project in the Terminal.
+1- Start the android studio from the bin/sh ./studio.sh
+2- run the android emulator from android studio
+2- Start React Native in another terminal /react-native start
+3- Run the android emulator with /react-native run-android
